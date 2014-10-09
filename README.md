@@ -55,7 +55,7 @@ A collection is an array of objects.
 - Create a variable called `quackers` and assign it to this example object:
   - `{ username: 'DaffyDuck', tagline: 'Yippeee!', noises: ['quack', 'honk', 'sneeze', 'growl'] }`
   
-- Add `quackers` to the `animal` array using a different method than before.
+- Add `quackers` to the `animals` array using a different method than before.
 - Inspect your `animals` array to ensure you have two objects inside.
 - Create two more animal objects with these properties and your choice of values: 
   - username (with a string value) 
