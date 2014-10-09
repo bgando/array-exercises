@@ -12,7 +12,7 @@ Create an array.
 
 - Create a variable called `noiseArray` and assign it to an array literal. Place at least one element in the array.
 
-Using a native array method…
+Using a [native array method](http://www.w3schools.com/jsref/jsref_obj_array.asp)…
 
 - Add a noise to the beginning of the `noiseArray`.
 - Add another noise to the end of the `noiseArray`.
