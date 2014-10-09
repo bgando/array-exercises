@@ -50,7 +50,7 @@ Let's go over some concepts:
 A collection is an array of objects. 
 
 - Create a variable called `animals` and set it equal to an empty array
-  - Note that this variable is `animals` (plural) while the variable in step 1 is `animal` (singular)
+  - Note that this variable is `animals` (plural) while the variable in the Animal User Model of the Object Exercises is `animal` (singular)
 - Using any method you prefer, add your `animal` from step 1 to the `animals` array.
 - Create a variable called `quackers` and assign it to this example object:
   - `{ username: 'DaffyDuck', tagline: 'Yippeee!', noises: ['quack', 'honk', 'sneeze', 'growl'] }`
