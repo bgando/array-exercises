@@ -2,6 +2,10 @@
 
 [Back to Home](https://github.com/bgando/JS102)
 
+In this section we will review arrays and learn how to create a collection of animal objects.
+
+**You will be placing all your code into the scripts.js file.** 
+
 Create an array.
 
 - Create a variable called `noiseArray` and assign it to an array literal. Place at least one element in the array.
