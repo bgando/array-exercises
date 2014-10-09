@@ -1,4 +1,5 @@
-## Arrays
+#eFarmony Data Structures: Arrays as Collections
+
 [Back to Home](https://github.com/bgando/JS102)
 
 Create an array.
@@ -23,14 +24,9 @@ Inspect the `noiseArray`
 
 
 ##### Step 1C - Nest the Array in the Object
-Put the `noiseArray` inside the animal object
+Put the `noiseArray` inside the animal object on the noises property. Your result should look like this:
 
-- Create a variable called noizes and assign it the string 'noises'.
-- Use the noizes variable to access the value 'null' on your animal object.
-- Now use the noizes variable with the `noiseArray` to replace the value null with your `noiseArray`.
-- Inspect your data structure, it should look something like this:
-
-  `{ username: 'duck', tagline: 'Afflack', noises: ['quack', 'honk', 'sneeze'] }`
+  `{ username: 'DaffyDuck', tagline: 'Yippeee!', noises: ['quack', 'honk', 'sneeze'] }`
   
 - Congrats! You just made a nested data structure :)  
 
@@ -49,14 +45,14 @@ Let's go over some concepts:
 ### [Step 2: Animal Collection](id:collection)
 A collection is an array of objects. 
 
-- Create a variable called animals and set it equal to an empty array
-  - Note that this variable is animals (plural) while the variable in step 1 is animal (singular)
-- Using any method you prefer, add your animal from step 1 to the animals array.
-- Create a variable called quackers and assign it to the example object that I created above:
-  - `{ username: 'duck', tagline: 'Afflack', noises: ['quack', 'honk', 'sneeze', 'growl'] }`
+- Create a variable called `animals` and set it equal to an empty array
+  - Note that this variable is `animals` (plural) while the variable in step 1 is `animal` (singular)
+- Using any method you prefer, add your `animal` from step 1 to the `animals` array.
+- Create a variable called `quackers` and assign it to this example object:
+  - `{ username: 'DaffyDuck', tagline: 'Yippeee!', noises: ['quack', 'honk', 'sneeze', 'growl'] }`
   
-- Add quackers to the animal array using a different method than before.
-- Inspect your animals array to ensure you have two objects inside.
+- Add `quackers` to the `animal` array using a different method than before.
+- Inspect your `animals` array to ensure you have two objects inside.
 - Create two more animal objects with these properties and your choice of values: 
   - username (with a string value) 
   - tagline (with a string value)
