@@ -27,8 +27,8 @@ Inspect the `noiseArray`
 - Inspect your handiwork! What does it look like?
 
 
-##### Step 1C - Nest the Array in the Object
-Put the `noiseArray` inside the animal object on the noises property. Your result should look like this:
+Nest the Array in the Object
+- Put the `noiseArray` inside the animal object on the noises property. Your result should look like this:
 
   `{ username: 'DaffyDuck', tagline: 'Yippeee!', noises: ['quack', 'honk', 'sneeze'] }`
   
