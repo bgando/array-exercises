@@ -38,10 +38,8 @@ Nest the Array in the Object
 ##### Review
 Let's go over some concepts:
 
-- What are the different ways you can add properties and values to objects? 
-- What about arrays?
-- What if you wanted to add a property to an object that had a weird symbol?
-- What about if it is a variable, how does that change the syntax?
+- What are the different ways you can add properties and values to arrays? 
+- Come up with two ways you can add an element to the end of an array, without knowing the exact length of the array. 
 
 ---
 
