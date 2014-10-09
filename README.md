@@ -5,6 +5,7 @@
 In this section we will review arrays and learn how to create a collection of animal objects.
 
 **You will be placing all your code into the scripts.js file.** 
+---
 
 Create an array.
 
