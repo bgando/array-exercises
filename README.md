@@ -44,7 +44,7 @@ Let's go over some concepts:
 ---
 
 
-### [Step 2: Animal Collection](id:collection)
+### [Animal Collection](id:collection)
 A collection is an array of objects. 
 
 - Create a variable called `animals` and set it equal to an empty array
