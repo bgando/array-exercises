@@ -8,7 +8,7 @@ In this section we will review arrays and learn how to create a collection of an
 
 ---
 
-Create an array.
+Create an array:
 
 - Create a variable called `noiseArray` and assign it to an array literal. Place at least one element in the array.
 
@@ -20,16 +20,16 @@ Using a [native array method](http://www.w3schools.com/jsref/jsref_obj_array.asp
 
 Using Bracket Notation…
 
-- add another noise to the end.
+- Add another noise to the end.
 
-Inspect the `noiseArray`
+Inspect the `noiseArray`:
 
 - What is the length?
 - What is the last index? How is it different than the length?
 - Inspect your handiwork! What does it look like?
 
 
-Nest the Array in the Object
+Nest the Array in the Object:
 - Put the `noiseArray` inside the animal object on the noises property. Your result should look like this:
 
   `{ username: 'DaffyDuck', tagline: 'Yippeee!', noises: ['quack', 'honk', 'sneeze'] }`
@@ -49,8 +49,8 @@ Let's go over some concepts:
 ### [Animal Collection](id:collection)
 A collection is an array of objects. 
 
-- Create a variable called `animals` and set it equal to an empty array
-  - Note that this variable is `animals` (plural) while the variable in the Animal User Model of the Object Exercises is `animal` (singular)
+- Create a variable called `animals` and set it equal to an empty array.
+  - Note that this variable is `animals` (plural) while the variable in the Animal User Model of the Object Exercises is `animal` (singular).
 - Using any method you prefer, add your `animal` from the Object Exercises to the `animals` array.
 - Create a variable called `quackers` and assign it to this example object:
   - `{ username: 'DaffyDuck', tagline: 'Yippeee!', noises: ['quack', 'honk', 'sneeze', 'growl'] }`
