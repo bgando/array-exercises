@@ -29,7 +29,7 @@ Inspect the `noiseArray`:
 - Inspect your handiwork! What does it look like?
 
 
-Nest the Array in the Object:
+Nest the array in the object:
 - Put the `noiseArray` inside the animal object on the noises property. Your result should look like this:
 
   `{ username: 'DaffyDuck', tagline: 'Yippeee!', noises: ['quack', 'honk', 'sneeze'] }`
