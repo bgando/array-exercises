@@ -1,4 +1,4 @@
-#eFarmony Data Structures: Arrays as Collections
+# eFarmony Data Structures: Arrays as Collections
 
 [Back to Home](https://github.com/bgando/JS102)
 
