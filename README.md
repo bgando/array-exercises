@@ -14,20 +14,22 @@ Create an array.
 
 Using a [native array method](http://www.w3schools.com/jsref/jsref_obj_array.asp)…
 
-- Add a noise to the beginning of the `noiseArray`.
+- Add a noise your animal would make to the beginning of the `noiseArray`.
 - Add another noise to the end of the `noiseArray`.
 
 
 Using Bracket Notation…
 
-- add another noise to the end.
+- add another noise in between each the two noises you've already placed inside the array.
 
-Inspect the `noiseArray`
+Inspect the `noiseArray` in the console:
 
 - What is the length?
 - What is the last index? How is it different than the length?
 - Inspect your handiwork! What does it look like?
 
+- Now use the length property to find the length.
+- Access the last index in the array using some sort of notation.
 
 Nest the Array in the Object
 - Put the `noiseArray` inside the animal object on the noises property. Your result should look like this:
